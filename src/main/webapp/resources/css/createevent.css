@@ -1,0 +1,14 @@
+.create-event-form {
+  width: 400px;
+  margin: 20px;
+  align-self: center;
+  align: center;
+}
+
+.event-description {
+  height: 300px;
+}
+
+.button {
+  width: 150px;
+}

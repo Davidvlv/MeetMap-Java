@@ -1,0 +1,83 @@
+@import url("../bootstrap/css/bootstrap.min.css");
+
+.row {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#profileImage {
+	height: 150px;
+	width: 150px;
+	margin-right: 20px;
+	margin-left: 20px;
+	display: inline-block;
+	border: 1px solid #ddd;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.detailsContainer {
+	width: 375px;
+	margin-left: 20px;
+	display: inline;
+}
+
+td {
+	width: 100px;
+	word-wrap: break-word;
+	padding-top: 10px;
+}
+
+.td-value {
+	padding-left: 45px;
+}
+
+tr {
+	vertical-align: top;
+}
+
+#description {
+	width: 200px;
+}
+
+#interestsList {
+	margin-top: 20px;
+	padding-left: 0px;
+}
+
+.interest {
+	border: 1px solid #a95555;
+	padding: 5px;
+	display: inline-block;
+	margin: 3px;
+	background-color: #f5934d;
+	color: white;
+	border-radius: 4px;
+}
+
+.profileContainer {
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 70px;
+	padding: 10px;
+}
+
+.userProfile {
+	background-color: #efefef;
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+
+#groupCountContainer {
+	margin-top: 20px;
+}
+
+.td-property {
+	font-weight: bold;
+}
+
+.group-count {
+	display: inline;
+}

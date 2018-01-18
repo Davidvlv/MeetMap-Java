@@ -1,0 +1,51 @@
+@import url("../bootstrap/css/bootstrap.min.css");
+
+.signupform {
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 20px;
+	align-self: center;
+}
+
+.signupsuccess {
+	width: 400px;
+	margin: 0 auto;
+	align-self: center;
+}
+
+.form-control {
+	width: 200px;
+	display: inline-block;
+}
+
+.vertical-center {
+	min-height: 100%; /* Fallback for browsers do NOT support vh unit */
+	min-height: 100vh; /* These two lines are counted as one :-)       */
+	display: flex;
+	align-items: center;
+}
+
+.button {
+	width: 125px;
+}
+
+.header {
+	font-size: 80px;
+	width: 400px;
+	color: #f47742;
+	margin-bottom: 30px;
+}
+
+.error {
+	width: 300px;
+	display: inline;
+	position: absolute;
+}
+
+.username-error {
+	width: 250px;
+}
+
+.button-actions {
+	margin-top: 30px;
+}

@@ -1,0 +1,38 @@
+@import url("../bootstrap/css/bootstrap.min.css");
+
+.loginform {
+	width: 400px;
+	margin: 0 auto;
+	align-self: center;
+	text-align: center;
+}
+
+.form-group {
+	text-align: left;
+}
+
+.vertical-center {
+	min-height: 100%; /* Fallback for browsers do NOT support vh unit */
+	min-height: 100vh; /* These two lines are counted as one :-)       */
+	display: flex;
+	align-items: center;
+}
+
+.button {
+	width: 250px;
+	margin-top: 20px;
+}
+
+
+.btn-login:hover, .btn-login:focus {
+	color: #fff;
+	background-color: #53A3CD;
+	border-color: #53A3CD;
+}
+
+.header {
+	font-size: 80px;
+	width: 400px;
+	color: #f47742;
+	margin-bottom: 20px;
+}

@@ -1,0 +1,29 @@
+.top-div {
+	margin: 20px;
+}
+
+.division {
+	padding: 10px;
+}
+
+.name-box {
+	padding: 10px;
+}
+
+.description-box {
+	padding: 10px;
+}
+
+.post-box {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.break {
+	margin-top: 10px;
+}
+
+.details-alert {
+	width: 100%;
+	align: center;
+}

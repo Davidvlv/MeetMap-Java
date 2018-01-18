@@ -1,0 +1,14 @@
+.create-group-form {
+  width: 400px;
+  margin: 20px;
+  align-self: center;
+  align: center;
+}
+
+.group-description {
+  height: 300px;
+}
+
+.button {
+  width: 150px;
+}
